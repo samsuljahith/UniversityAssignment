@@ -1,4 +1,4 @@
-# 🚗 Cars Price Analysis - Data Exploration & Visualisation
+#  Cars Price Analysis - Data Exploration & Visualisation
 
 **University of Hertfordshire - Data Science Assignment**  
 **Course**: Data Exploration & Visualisation  
@@ -7,11 +7,11 @@
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 This project performs comprehensive **Exploratory Data Analysis (EDA)** on a cars price dataset containing 8,128 car listings. The analysis includes data preprocessing, statistical analysis, correlation studies, and multiple types of visualizations to uncover insights about factors affecting car prices.
 
-### 🎯 Key Objectives:
+### Key Objectives:
 - Perform data cleaning and preprocessing
 - Generate descriptive statistics
 - Conduct correlation analysis
@@ -20,7 +20,7 @@ This project performs comprehensive **Exploratory Data Analysis (EDA)** on a car
 
 ---
 
-## 📊 Dataset Information
+##  Dataset Information
 
 - **Filename**: `cars_price.csv`
 - **Records**: 8,128 car listings
@@ -40,7 +40,7 @@ This project performs comprehensive **Exploratory Data Analysis (EDA)** on a car
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Programming Language:
 - **Python 3.8+**
@@ -55,7 +55,7 @@ This project performs comprehensive **Exploratory Data Analysis (EDA)** on a car
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 cars-price-analysis/
@@ -82,7 +82,7 @@ cars-price-analysis/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Option 1: Google Colab (Recommended)
 
@@ -125,7 +125,7 @@ python cars_analysis.py
 
 ---
 
-## 📊 Analysis Workflow
+##  Analysis Workflow
 
 ### 1. Data Preprocessing (30%)
 - ✅ **Data Cleaning**:
@@ -178,7 +178,7 @@ Based on the analysis, key findings include:
 
 ---
 
-## 📈 Sample Visualizations
+##  Sample Visualizations
 
 ### Correlation Heatmap
 Shows the relationships between all numeric variables in the dataset.
@@ -191,7 +191,7 @@ Comprehensive analysis of categorical variables with multiple visualization type
 
 ---
 
-## 🎓 Assignment Requirements Met
+##  Assignment Requirements Met
 
 ### Data Preprocessing & EDA (30%):
 - ✅ Data cleaning & preparation (10%)
@@ -215,7 +215,7 @@ Comprehensive analysis of categorical variables with multiple visualization type
 
 ---
 
-## 📝 How to Use This Code for Your Assignment
+##  How to Use This Code for Your Assignment
 
 1. **Download/Clone** this repository
 2. **Customize** the code with your own name and student ID
@@ -227,19 +227,19 @@ Comprehensive analysis of categorical variables with multiple visualization type
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is an educational project for assignment submission. However, suggestions and improvements are welcome!
 
 ---
 
-## 📄 License
+## License
 
 This project is created for educational purposes as part of the University of Hertfordshire coursework.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Samsul Jahith S**  
 Student ID:  8232ESLG 
@@ -248,7 +248,7 @@ School of Physics, Engineering and Computer Science
 
 ---
 
-## 📞 Contact
+##  Contact
 
 For questions or collaboration:
 - Email: samsuljahith@gmail.com
@@ -256,7 +256,7 @@ For questions or collaboration:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - University of Hertfordshire for the assignment framework
 - Tutor: Wong Kim Siong
@@ -265,7 +265,7 @@ For questions or collaboration:
 
 ---
 
-## 📚 References
+##  References
 
 1. McKinney, W. (2017). *Python for Data Analysis*. O'Reilly Media.
 2. VanderPlas, J. (2016). *Python Data Science Handbook*. O'Reilly Media.
